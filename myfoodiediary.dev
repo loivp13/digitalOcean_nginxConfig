@@ -3,7 +3,7 @@ server {
 	root /var/www/html;
 	index index.html index.htm index.nginx-debian.html;
 
-	server_name 167.172.213.140 myfoodiediary.dev www.myfoodiediary.dev;
+	server_name myfoodiediary.dev www.myfoodiediary.dev;
 
 	location / {
 		proxy_pass http://localhost:3000;
