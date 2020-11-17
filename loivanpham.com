@@ -38,7 +38,7 @@ server {
 	#
 	# include snippets/snakeoil.conf;
 
-	root /var/www/loivanpham.com/public_html;
+	root /var/www/loivanpham.com/public_html/portfolio2020/portfolio2020/build;
 
 	# Add index.php to the list if you are using PHP
 	index index.html index.htm index.nginx-debian.html;
