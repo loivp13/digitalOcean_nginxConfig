@@ -19,7 +19,7 @@
 # Default server configuration
 #
 server {
-	listen 80 ;
+	listen 80;
 	listen [::]:80;
 
 	# SSL configuration
